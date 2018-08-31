@@ -10,32 +10,26 @@
                     <span class="icon-menu"></span>
                     <span class="icon-menu"></span>
                 </button>
-                <a href="#hero-area" class="navbar-brand"><img src="assets/img/logo-01.png" alt=""></a>
+                <a href="index-2.html" class="navbar-brand"><img src="assets/img/logo-01.png" alt=""></a>
             </div>
             <div class="collapse navbar-collapse" id="main-navbar">
                 <ul class="navbar-nav mr-auto w-100 justify-content-end clearfix">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#hero-area">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index-2.html">
                             Home
                         </a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            About Us <i class="lni-chevron-down"></i>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">
+                            About Us
                         </a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#about">About Us</a>
-                            <a class="dropdown-item" href="#meetings">Meetings</a>
-                            <a class="dropdown-item" href="team">Our Team</a>
-                            <a class="dropdown-item" href="#join">Joining Jasiri Sacco</a>
-                        </div>
                     </li>
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown active">
                         <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Pages <i class="lni-chevron-down"></i>
                         </a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" href="services.html">Services</a>
+                            <a class="dropdown-item active" href="services.html">Services</a>
                             <a class="dropdown-item" href="pricing.html">Pricing Tables</a>
                             <a class="dropdown-item" href="team.html">Our Team</a>
                             <a class="dropdown-item" href="404.html">Page 404</a>
@@ -68,15 +62,15 @@
 
         <ul class="mobile-menu">
             <li>
-                <a class="active" href="#hero-area">Home</a>
+                <a href="index-2.html">Home</a>
             </li>
             <li>
-                <a href="#about">About Us</a>
+                <a href="about.html">About Us</a>
             </li>
             <li>
-                <a href="#">Pages</a>
+                <a class="active" href="#">Pages</a>
                 <ul class="dropdown">
-                    <li><a href="services.html">Services</a></li>
+                    <li><a class="active" href="services.html">Services</a></li>
                     <li><a href="pricing.html">Pricing Tables</a></li>
                     <li><a href="team.html">Our Team</a></li>
                     <li><a href="404.html">Page 404</a></li>
@@ -100,25 +94,5 @@
         </ul>
 
     </nav>
-
-
-    <div id="hero-area" class="hero-area-bg">
-        <div class="overlay"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="contents text-center">
-                        <h2 class="head-title wow fadeInUp">Jasiri Sacco - Limited</h2>
-                        <p class="fadeInUp  wow" data-wow-delay="0.2s">Our mission is to improve lives by providing employment opportunities<br>
-                            Nutritious food, income, and cheap renewable energy.</p>
-                        <div class="header-button wow fadeInUp" data-wow-delay="1s">
-                            <a href="services.html" class="btn btn-common">Services</a>
-                            <a href="contact.html" class="btn btn-border">Get a Quote</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
 </header>

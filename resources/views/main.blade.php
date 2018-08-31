@@ -64,8 +64,9 @@
                         <i class="lni-briefcase"></i>
                     </div>
                     <div class="services-content">
-                        <h3><a href="#">Our</a></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condi.</p>
+                        <h3><a href="#">Our Objective</a></h3>
+                        <p>Our main objective is to serve our clients who have the desire to
+                            improve themselves, their businesses and/or build assets that give them economic power. The Sacco promotes a culture of saving by providing members with an opportunity to accumulate deposits from which loans are made available at attractive rates of interest.</p>
                     </div>
                 </div>
             </div>
@@ -87,8 +88,11 @@
             <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
                 <div class="text-holder">
                     <div class="sec-title">
-                        <h3>The best solution for your business</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id qui itaque ducimus est debitis temporibus deleniti nobis earum totam voluptatem similique, </p>
+                        <h3>Ready to Serve</h3>
+                        <p>Mwito Sacco Society Ltd was registered on in the year 1979 under the Co-operative
+                            Societies Act Cap 490 Laws of Kenya as limited liability society in order to mobilize
+                            savings and provide affordable credit facilities. The Sacco draws its membership from
+                            employees of Ministry of Kenya Wildlife, Tourism and Kenya Marine and Fisheries Research institute </p>
                     </div>
                     <div class="row text-box mt-4">
                         <div class="col-md-6 col-sm-6 col-xs-12">
@@ -444,72 +448,72 @@
 </section>
 
 
-<section id="pricing-table" class="section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="mainHeading">
-                    <h2 class="section-title">Choose Pricing Plan</h2>
-                </div>
-            </div>
-            <div class="col-12">
-                <div class="row">
-                    <div class="col-sm-4 padding-none">
-                        <div class="table">
-                            <div class="title">
-                                <h3>Basic</h3>
-                            </div>
-                            <div class="pricing-header">
-                                <p class="price-value"><sup>$</sup>14<span>/ Mo</span></p>
-                            </div>
-                            <ul class="description">
-                                <li><strong>1</strong> Website</li>
-                                <li><strong>Free</strong> Logo Design</li>
-                                <li><strong>1GB</strong> Space</li>
-                                <li><strong>100%</strong> Secure!</li>
-                            </ul>
-                            <button class="btn btn-common">Buy Now</button>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 padding-none active">
-                        <div class="table" id="active-tb">
-                            <div class="title">
-                                <h3>Standard</h3>
-                            </div>
-                            <div class="pricing-header">
-                                <p class="price-value"><sup>$</sup>89<span>/ Mo</span></p>
-                            </div>
-                            <ul class="description">
-                                <li><strong>5</strong> Websites</li>
-                                <li><strong>Free</strong> Brand Materials Design</li>
-                                <li><strong>10GB</strong> Space</li>
-                                <li><strong>100%</strong> Secure!</li>
-                            </ul>
-                            <button class="btn btn-common">Buy Now</button>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 padding-none">
-                        <div class="table">
-                            <div class="title">
-                                <h3>Corporate</h3>
-                            </div>
-                            <div class="pricing-header">
-                                <p class="price-value"><sup>$</sup>199<span>/ Mo</span></p>
-                            </div>
-                            <ul class="description">
-                                <li><strong>10</strong> Websites</li>
-                                <li><strong>Free</strong> Brand Materials Design</li>
-                                <li><strong>Unlimited</strong> Space</li>
-                                <li><strong>100%</strong> Secure!</li>
-                            </ul>
-                            <button class="btn btn-common">Buy Now</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+{{--<section id="pricing-table" class="section-padding">--}}
+    {{--<div class="container">--}}
+        {{--<div class="row">--}}
+            {{--<div class="col-12">--}}
+                {{--<div class="mainHeading">--}}
+                    {{--<h2 class="section-title">Choose Pricing Plan</h2>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+            {{--<div class="col-12">--}}
+                {{--<div class="row">--}}
+                    {{--<div class="col-sm-4 padding-none">--}}
+                        {{--<div class="table">--}}
+                            {{--<div class="title">--}}
+                                {{--<h3>Basic</h3>--}}
+                            {{--</div>--}}
+                            {{--<div class="pricing-header">--}}
+                                {{--<p class="price-value"><sup>$</sup>14<span>/ Mo</span></p>--}}
+                            {{--</div>--}}
+                            {{--<ul class="description">--}}
+                                {{--<li><strong>1</strong> Website</li>--}}
+                                {{--<li><strong>Free</strong> Logo Design</li>--}}
+                                {{--<li><strong>1GB</strong> Space</li>--}}
+                                {{--<li><strong>100%</strong> Secure!</li>--}}
+                            {{--</ul>--}}
+                            {{--<button class="btn btn-common">Buy Now</button>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                    {{--<div class="col-sm-4 padding-none active">--}}
+                        {{--<div class="table" id="active-tb">--}}
+                            {{--<div class="title">--}}
+                                {{--<h3>Standard</h3>--}}
+                            {{--</div>--}}
+                            {{--<div class="pricing-header">--}}
+                                {{--<p class="price-value"><sup>$</sup>89<span>/ Mo</span></p>--}}
+                            {{--</div>--}}
+                            {{--<ul class="description">--}}
+                                {{--<li><strong>5</strong> Websites</li>--}}
+                                {{--<li><strong>Free</strong> Brand Materials Design</li>--}}
+                                {{--<li><strong>10GB</strong> Space</li>--}}
+                                {{--<li><strong>100%</strong> Secure!</li>--}}
+                            {{--</ul>--}}
+                            {{--<button class="btn btn-common">Buy Now</button>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                    {{--<div class="col-sm-4 padding-none">--}}
+                        {{--<div class="table">--}}
+                            {{--<div class="title">--}}
+                                {{--<h3>Corporate</h3>--}}
+                            {{--</div>--}}
+                            {{--<div class="pricing-header">--}}
+                                {{--<p class="price-value"><sup>$</sup>199<span>/ Mo</span></p>--}}
+                            {{--</div>--}}
+                            {{--<ul class="description">--}}
+                                {{--<li><strong>10</strong> Websites</li>--}}
+                                {{--<li><strong>Free</strong> Brand Materials Design</li>--}}
+                                {{--<li><strong>Unlimited</strong> Space</li>--}}
+                                {{--<li><strong>100%</strong> Secure!</li>--}}
+                            {{--</ul>--}}
+                            {{--<button class="btn btn-common">Buy Now</button>--}}
+                        {{--</div>--}}
+                    {{--</div>--}}
+                {{--</div>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</div>--}}
+{{--</section>--}}
 
 
 <section class="subscribes section-padding">
